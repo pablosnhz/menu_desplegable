@@ -9,7 +9,7 @@
 body {
     background: white;
     font-family: 'Roboto', sans-serif;
-    background-color: black;
+    background-color: #BEBEBE;
 }
 
 .nav {
@@ -53,7 +53,7 @@ body {
     cursor: pointer;
 }
 
-.list_button {
+.list__button {
     display: flex;
     align-items: center;
     gap: 1em;
